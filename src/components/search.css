@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+}
+
+.my-btn{
+border:1px solid blue;
+background-color: #fff;
+padding:10px;
+}
+
+.searchField{
+    padding:10px;
+}
+img.pokemon-image{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
